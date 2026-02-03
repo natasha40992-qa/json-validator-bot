@@ -36,6 +36,7 @@
 Через [@BotFather](https://t.me/BotFather) создаем бота и сохраняем свой токен.
 
 ## Запуск бота двумя способами
+
 # 1. Через Chrome Colab.
 
 Добавила этот [код](https://github.com/natasha40992-qa/json-validator-bot/blob/main/cod.py)
@@ -44,6 +45,8 @@
 # 2. ⏬ Установка на локальном компьютере
 
 Для windows инструкция [есть вот тут](https://yandex.ru/video/preview/13360235173481263563))
+
+## Поздравляю, бот запущен!
 
 #  Автор
 Наталья Захарова (https://t.me/NatashaZakharovaV)
