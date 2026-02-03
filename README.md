@@ -32,7 +32,8 @@
 * Библиотека `nest_asyncio`
 * Библиотека `json_repair`
 
-## Я развернула бота через Chrome Colab, и добавила этот код:
+## Я развернула бота через Chrome Colab.
+Добавила этот [код](https://github.com/natasha40992-qa/json-validator-bot/tree/main)
 
 !pip install python-telegram-bot nest_asyncio json_repair
 
