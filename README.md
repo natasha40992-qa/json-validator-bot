@@ -10,6 +10,8 @@
 
 ## 🖼 Скриншоты
 
+
+
 Стартовое меню:
 <img width="705" height="419" alt="1" src="https://github.com/user-attachments/assets/eb8ba7f2-2ed1-4fa7-b51d-1b9ee91ad1bd" />
 
