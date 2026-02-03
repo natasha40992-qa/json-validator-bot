@@ -238,7 +238,7 @@ application.run_polling(drop_pending_updates=True)
 2. Создать бота и через [@BotFather](https://t.me/BotFather) и вставить в проекте свой токен от бота
 
 3. Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows инструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
+Далее команды для MacOS (для windows инструкция [есть вот тут](https://yandex.ru/video/preview/13360235173481263563))
 
 ``` markdown
 python3 -m venv venv
