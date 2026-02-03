@@ -31,8 +31,8 @@
 * Библиотека `python-telegram-bot`
 * Библиотека `nest_asyncio`
 * Библиотека `json_repair`
-  
-Импортирую библиотеку:
+
+## Я развернула бота через Chrome Colab, и добавила этот код:
 
 !pip install python-telegram-bot nest_asyncio json_repair
 
