@@ -200,3 +200,6 @@ print("🤖 Бот JSON валидатор запущен...")
 print("📱 Используйте /start в Telegram для начала работы")
 application.run_polling(drop_pending_updates=True)
 
+#  Автор
+Наталья Захарова (@NatashaZakharovaV)
+
